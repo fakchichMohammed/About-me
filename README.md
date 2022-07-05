@@ -6,10 +6,10 @@
 
 [![Intagram Follow]([https://img.shields.io/twitter/follow/misteranmol?label=Follow](https://www.instagram.com/fakchich_mohammed/))]([https://twitter.com/intent/follow?screen_name=misteranmo](https://www.instagram.com/fakchich_mohammed/following/))
 [![Linkedin: anmol](https://img.shields.io/badge/-mohammed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-fakchich-009308183/)](https://www.linkedin.com/in/mohammed-fakchich-009308183/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![GitHub followers](https://img.shields.io/github/followers/fakchichMohammed?label=Follow&style=social)
+[![website](comming soon/)
+![]()
+![Waka Readme](https://github.com/mohammedFakchich/mohammedFakchich/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
 
