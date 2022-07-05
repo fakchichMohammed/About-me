@@ -1,6 +1,6 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi🏻, I'm Mohammed FAKCHICH! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose Labs
+<p><em>Front-end developer engineer at <a href="https://www.carrefour.fr//">Carrefour
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -100,7 +100,7 @@ Sunday       139 commits    █████░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 JavaScript               25 hrs 20 mins      ██████████████████████░░░   87.67% 
-YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
+YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   53.8% 
 Java                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
 JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
 HTML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
