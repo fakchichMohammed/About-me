@@ -9,7 +9,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/fakchichMohammed?label=Follow&style=social)
 [![website](comming soon/)
 ![]()
-![Waka Readme](https://github.com/mohammedFakchich/mohammedFakchich/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
 
